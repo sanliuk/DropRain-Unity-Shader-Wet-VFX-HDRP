@@ -2,9 +2,9 @@
 ## What I've done:
 
 So Basically I mad three different ways to make the same fx and I called the object  in the scene with the same name:
-1 Cube ScrollShader
-2 Cube AmplifyVFXGraph ( I added Amplify Shader on the project , if you face some issue I used last version of Amplify, and unity 2022.3.18f1)
-3 Cube VFX Graph ShaderGraph
+- 1 Cube ScrollShader
+- 2 Cube AmplifyVFXGraph ( I added Amplify Shader on the project , if you face some issue I used last version of Amplify, and unity 2022.3.18f1)
+- 3 Cube VFX Graph ShaderGraph
 
 In the first one I creat the scrolling fx directly in the shader because is the first thing I thought when I watched the fx.
 In the second one is used Amplyfy shader.
