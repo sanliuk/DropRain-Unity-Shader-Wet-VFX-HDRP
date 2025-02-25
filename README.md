@@ -12,7 +12,7 @@ The second one is very similar to the 3rd because they use the vfx graph that ma
 A camera capture instantly the fx and a Render Texture that I calle "RenderTex" records it in the texture.
 So both of them (second and 3rd) use vfx graphs to make the effect because their shaders use the render texture.
 ![ScreenShot](ScreenShot.png)
-![alt text](https://github.com/sanliuk/images/Screenshot.png) 
+![alt text](https://github.com/sanliuk/main/images/Screenshot.png) 
 "My approach with camera and vfx graph method"
 ## Controllers:
 # Speed,  wet/dry effect, tiling offset UV.
