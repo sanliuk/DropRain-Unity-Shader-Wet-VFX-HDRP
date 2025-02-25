@@ -13,6 +13,8 @@ A camera capture instantly the fx and a Render Texture that I calle "RenderTex" 
 So both of them (second and 3rd) use vfx graphs to make the effect because their shaders use the render texture.
 ![ScreenShot](ScreenShot.png)
 ![alt text](https://github.com/sanliuk/main/images/Screenshot.png) 
+![Descrizione dell'immagine](https://raw.githubusercontent.com/sanliuk/images/main/Screenshot.png)
+
 "My approach with camera and vfx graph method"
 ## Controllers:
 # Speed,  wet/dry effect, tiling offset UV.
