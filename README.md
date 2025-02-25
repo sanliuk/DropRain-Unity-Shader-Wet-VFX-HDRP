@@ -6,7 +6,7 @@ So Basically I mad three different ways to make the same fx and I called the obj
 - 2 Cube AmplifyVFXGraph ( I added Amplify Shader on the project , if you face some issue I used last version of Amplify, and unity 2022.3.18f1)
 - 3 Cube VFX Graph ShaderGraph
 
-In the first one I creat the scrolling fx directly in the shader because is the first thing I thought when I watched the fx.
+In the first one I created the scrolling fx directly in the shader because is the first thing I thought when I watched the fx.
 In the second one is used Amplyfy shader.
 The second one is very similar to the 3rd because they use the vfx graph that makes particles and trails to creat the rain effect.
 A camera capture instantly the fx and a Render Texture that I calle "RenderTex" records it in the texture.
