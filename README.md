@@ -41,9 +41,9 @@ In case, if something is missing or for some issue let me know as soon as possib
 
 Thank you
 
-If you want to watch the preview CLICK THIS IMAGE:
+If you want to watch the preview and tutorial:
 
-![My approach with camera and vfx graph method](https://raw.githubusercontent.com/sanliuk/images/main/Screenshot.png)(https://youtu.be/5yO5I5KjFlI)
+![My approach with camera and vfx graph method](https://raw.githubusercontent.com/sanliuk/images/main/Screenshot2.png)(https://youtu.be/5yO5I5KjFlI)
 
 Tutorial on this link: ([https://youtu.be/5yO5I5KjFlI](https://youtu.be/HmYk7PJzuuY))
 
