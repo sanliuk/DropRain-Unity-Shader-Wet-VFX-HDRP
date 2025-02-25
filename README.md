@@ -52,6 +52,12 @@ Tutorial on this link: ([https://youtu.be/5yO5I5KjFlI](https://youtu.be/HmYk7PJz
 # WARNING
 If you have some issue with materials, pipelines, shaders, pink materials, please feel free to contact me
 
+
+## 💬 Support and Questions
+Have questions or feedback? Join me on Discord!  
+👉 [Join the community](https://discord.com/invite/VbKMmsUbq5)
+
+Thank you for your interest! 🙏 If you find this project helpful, feel free to leave a ⭐ on the repository or share the video.  
 Instagram @sanliuk
 :)
 
