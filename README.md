@@ -43,7 +43,7 @@ Thank you
 
 If you want to watch the preview and tutorial:
 
-![My approach with camera and vfx graph method](https://raw.githubusercontent.com/sanliuk/images/main/Screenshot2.png)(https://youtu.be/5yO5I5KjFlI)
+![My approach with camera and vfx graph method](https://raw.githubusercontent.com/sanliuk/images/main/Screenshot2.png)
 
 Tutorial on this link: ([https://youtu.be/5yO5I5KjFlI](https://youtu.be/HmYk7PJzuuY))
 
